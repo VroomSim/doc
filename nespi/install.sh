@@ -1,6 +1,6 @@
 #!/bin/bash
 
-SourcePath=https://raw.githubusercontent.com/RetroFlag/retroflag-picase/master
+SourcePath=https://raw.githubusercontent.com/VroomSim/doc/main/nespi
 
 #Check if root--------------------------------------
 if [[ $EUID -ne 0 ]]; then
